@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         its快捷登录
+// @name         its工具箱
 // @namespace    http://tujust.com/
 // @version      1.0
 // @description  供应链系统-仅供内部使用
