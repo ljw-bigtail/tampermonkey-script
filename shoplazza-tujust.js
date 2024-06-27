@@ -4,8 +4,8 @@
 // @version      2024-06-27
 // @description  try to take over the world!
 // @author       Leo
-// @match        *://*.fashionme.com/*
-// @icon         http://its.opscms.com/favicon.ico
+// @match        *://*.myshoplaza.com/*
+// @icon         http://its.fashionme.com/favicon.ico
 // @grant        none
 // ==/UserScript==
 
