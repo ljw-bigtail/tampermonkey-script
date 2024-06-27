@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         店匠工具箱
 // @namespace    http://tampermonkey.net/
-// @version      2024-06-27
+// @version      1.0
 // @description  try to take over the world!
 // @author       Leo
 // @match        *://*.myshoplaza.com/*
